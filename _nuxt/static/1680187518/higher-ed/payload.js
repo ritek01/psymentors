@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/higher-ed", {data:[{}],fetch:{},mutations:void 0});

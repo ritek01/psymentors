@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/k12", {data:[{}],fetch:{},mutations:void 0});

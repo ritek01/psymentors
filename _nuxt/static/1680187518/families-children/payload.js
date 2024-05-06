@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/families-children", {data:[{}],fetch:{},mutations:void 0});
